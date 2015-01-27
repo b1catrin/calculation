@@ -79,7 +79,7 @@ int modulus(int a, int b)
     int total=0;
 
     total=a%b;
-    printf("\nModulus of entered numbers = %d\n",total);
+    printf("\n%d ? %d = %d\n", a, b, total);
     fflush(stdout);
     return total;
 }
