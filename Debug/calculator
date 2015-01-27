@@ -1,0 +1,7 @@
+EXPORTS
+    addition @1
+    calculator_operations @2
+    division @3
+    modulus @4
+    multiplication @5
+    subtraction @6
